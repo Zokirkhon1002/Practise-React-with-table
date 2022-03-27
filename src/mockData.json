@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Zokirkhon",
+      "gender": "male",
+      "phoneNumber": "+821080891816",
+      "email": "zokirxonkotibxanov@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Abdulkhamid",
+      "gender": "male",
+      "phoneNumber": "+998975661718",
+      "email": "qodirovAbdulkhamid@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Boburmirzo",
+      "gender": "male",
+      "phoneNumber": "+998913430668",
+      "email": "rosulovBoburmirzo@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Lucy",
+      "gender": "female",
+      "phoneNumber": "011-962-111",
+      "email": "lucy.lucy@email.com"
+    },
+    {
+      "id": 5,
+      "name": "Khurshidbek",
+      "gender": "male",
+      "phoneNumber": "+998999330348",
+      "email": "alisherovKhurshidbek@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "New",
+      "gender": "new",
+      "phoneNumber": "new",
+      "email": "new@gmail.com"
+    }
+  ]
